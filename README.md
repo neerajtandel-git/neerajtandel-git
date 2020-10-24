@@ -20,7 +20,7 @@
 <img align="left" width="22px" alt="neerajtandel-git | SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" width="22px" alt="neerajtandel-git | MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" width="22px" alt="neerajtandel-git | PostgreSql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
+<img align="left" width="22px" alt="neerajtandel-git | Visual Studio Code" src="https://docs.microsoft.com/en-us/visualstudio/media/vs-code-logo.svg?view=vs-2019" />
 
 <br />
 <br />
