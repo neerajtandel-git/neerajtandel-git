@@ -15,12 +15,12 @@
 
 ### Languages and Tools:
 
-<code><img align="left" width="22px" alt="neerajtandel-git | Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img align="left" width="22px" alt="neerajtandel-git | AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img align="left" width="22px" alt="neerajtandel-git | SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img align="left" width="22px" alt="neerajtandel-git | MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img align="left" width="22px" alt="neerajtandel-git | PostgreSql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img align="left" width="22px" alt="neerajtandel-git | Visual Studio Code" src="https://docs.microsoft.com/en-us/visualstudio/media/vs-code-logo.svg?view=vs-2019"></code>
+<img align="left" width="22px" alt="neerajtandel-git | Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" width="22px" alt="neerajtandel-git | AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="left" width="22px" alt="neerajtandel-git | SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" width="22px" alt="neerajtandel-git | MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" width="22px" alt="neerajtandel-git | PostgreSql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" width="22px" alt="neerajtandel-git | Visual Studio Code" src="https://docs.microsoft.com/en-us/visualstudio/media/vs-code-logo.svg?view=vs-2019" />
 
 <br />
 <br />
